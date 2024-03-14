@@ -1,6 +1,6 @@
 module github.com/adalundhe/gin-swagger
 
-go 1.17
+go 1.20
 
 require (
 	github.com/gin-contrib/gzip v0.0.6
