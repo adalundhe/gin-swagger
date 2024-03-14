@@ -6,9 +6,10 @@ require (
 	github.com/gin-contrib/gzip v0.0.6
 	github.com/gin-gonic/gin v1.9.0
 	github.com/stretchr/testify v1.8.1
-	github.com/swaggo/swag v1.8.12
+	github.com/adalundhe/openapi-files v1.0.0
+	github.com/adalundhe/gin-swagger v1.0.0
+	github.com/adalundhe/swag v1.0.0
 	golang.org/x/net v0.8.0
-	github.com/adalundhe/openapi-files v0.0.0-20240314223012-d86bb47c2f58
 )
 
 require (
