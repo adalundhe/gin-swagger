@@ -7,8 +7,8 @@ require (
 	github.com/gin-gonic/gin v1.9.0
 	github.com/stretchr/testify v1.8.1
 	github.com/adalundhe/openapi-files v1.0.0
-	github.com/adalundhe/gin-swagger v1.0.0
-	github.com/adalundhe/swag v1.0.0
+	github.com/adalundhe/gin-swagger v1.0.1
+	github.com/adalundhe/swag v1.0.2
 	golang.org/x/net v0.8.0
 )
 
