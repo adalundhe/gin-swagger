@@ -8,11 +8,11 @@ import (
 	"testing"
 
 	"github.com/gin-contrib/gzip"
-	"github.com/swaggo/swag"
+	"github.com/adalundhe/swag"
 
 	"github.com/gin-gonic/gin"
 	"github.com/stretchr/testify/assert"
-	swaggerFiles "github.com/swaggo/files"
+	swaggerFiles "github.com/adalundhe/openapi-files"
 )
 
 type mockedSwag struct{}
